@@ -1,7 +1,7 @@
 Rotation Forest
 ====================
 
-Implementation of Rotation Forest removing bootstrap step from the original version and including a data normalization preprocessing step.
+Python implementation of Rotation Forest removing bootstrap step from the original version and including a data normalization preprocessing step.
 
 References
 ----------
